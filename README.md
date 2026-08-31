@@ -5,7 +5,7 @@ Legacy VB.NET application for querying and displaying Active Directory last-logo
 ## Contents
 
 - `LastLogon.sln`
-- `LastLogon/` — application source and forms
+- `LastLogon/` - application source and forms
 
 ## Attribution and provenance
 
