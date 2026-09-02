@@ -1,5 +1,7 @@
 ﻿# LastLogon
 
+**Source last updated:** 2007-08-20
+
 Legacy VB.NET application for querying and displaying Active Directory last-logon information.
 
 ## Contents
