@@ -4,20 +4,31 @@ VB.NET WinForms utility that queries Active Directory for the newest last-logon 
 
 **Source last updated:** 2007-08-20
 
----
+| Field | Value |
+| --- | --- |
+| Language | VB.NET |
+| Target | .NET Framework 2.0 |
+| Output | WinForms executable |
 
-## Contents
+## Solution structure
 
-- `LastLogon.sln`
-- `LastLogon/` - application source and forms
+| Project | Language | Type | Purpose |
+| --- | --- | --- | --- |
+| `LastLogon` | VB.NET | WinForms exe | Multi-DC last-logon query UI |
 
-## Attribution and provenance
+## How to open
 
-No third-party source attribution markers were identified during this review.
+Open `LastLogon.sln` in Visual Studio.
 
 ## Requirements
 
-- Visual Studio 2005
+- Visual Studio 2005 or 2007
+- .NET Framework 2.0
+- Domain-joined machine with DirectoryServices access
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder. No third-party source attribution markers were identified during this review.
 
 ## License
 
